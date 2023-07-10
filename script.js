@@ -118,7 +118,7 @@ gsap.from("#page2 #div2 h2",{
     scrollTrigger:{
         trigger:"#page2 #div2 h2",
         scroller:"#main",
-        markers:true,
+        // markers:true,
         start:"top 90%",
         end:"top 80%",
         scrub:3
